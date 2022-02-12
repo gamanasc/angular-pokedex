@@ -12,4 +12,8 @@ export class PokemonListComponent implements OnInit {
   ngOnInit(): void {
   }
 
+  pokemons = [
+    "Bulbasaur", "Ivysaur"
+  ];
+
 }
