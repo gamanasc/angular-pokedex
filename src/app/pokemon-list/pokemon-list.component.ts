@@ -13,7 +13,7 @@ export class PokemonListComponent implements OnInit {
   }
 
   pokemons = [
-    "Bulbasaur", "Ivysaur"
+    "Bulbasaur", "Ivysaur", "Venasaur", "Charmander"
   ];
 
 }
